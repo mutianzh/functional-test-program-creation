@@ -25,4 +25,6 @@ Clone the repo:
 git clone https://github.com/mutianzh/functional-test-program-creation.git
 ```
 
-```hello.py``` is an example file that creates an assembly test program, simulates it, and measure the coverage.
+```hello.py``` is an example file that creates an assembly test program, simulates it, and measure the coverage. 
+
+Set up correct```base_path``` in ```hello.py```, and ```gem5_path``` in ```utils.py```.
